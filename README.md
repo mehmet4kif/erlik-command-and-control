@@ -1,5 +1,5 @@
 # erlik-command-and-control
-Blog yazısı: 
+Blog yazısı: https://mehmetakifaydogmus.com/kendimiz-c2-sunuculu-zararli-yazilim-yazip-tepeden-tirnaga-inceleyelim/
 # UYARI
 Eğitim amaçlı yazılmış kodlardır, kullanımı kişinin kendi sorumluluğundadır. Kullanımından bu programın oluşturucusu hiçbir sorumluluk kabul etmez.
 ## Özellikler
@@ -9,3 +9,4 @@ Eğitim amaçlı yazılmış kodlardır, kullanımı kişinin kendi sorumluluğu
 - **PowerShell Komutları:** `/powershell {komut}` komutu ile PowerShell komutları çalıştırılabilir.
 - **Ekran Görüntüsü Alma:** `/screenshot` komutu ile sistemin ekran görüntüsü alınır ve bot aracılığıyla gönderilir.
 - **Mesaj Gönderme:** `/sendmessage {mesaj içeriği}` komutu ile hedef ekranda bir mesaj görüntülenir.
+#### Daha fazka özellik için blog yazısına göz atabilirsiniz.
